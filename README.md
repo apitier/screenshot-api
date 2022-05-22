@@ -33,7 +33,7 @@ We have simple Pay As You Go Pricing Plans starts at minimum **$9**, with a year
 
 Very affordable pricing, each Validat VAT API request costs **3 request for 1 Cent**  irrespective of the plan.
 
-Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/signup)
+Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/api-catalogue/screenshot-api)
 
 ## Documentation
 Extensive API documentation, including code examples and extensive descriptions can be found [here](https://docs.theapibridge.com).
